@@ -1,3 +1,7 @@
+Screenshots of the landing page
+![Screenshot 2024-02-25 225511](https://github.com/Shakha0410/my-portfolio/assets/133149671/5c3407cc-98e2-42df-852e-1b77cfee164b)
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
